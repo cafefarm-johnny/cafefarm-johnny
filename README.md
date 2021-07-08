@@ -16,13 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/cafefarm-johnny)](https://hits.seeyoufarm.com) 
-  
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cafefarm-johnny&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cafefarm-johnny&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
 </div>
 
 ### 소개
