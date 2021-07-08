@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2cafefarm-johnny)](https://hits.seeyoufarm.com) 
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/cafefarm-johnny)](https://hits.seeyoufarm.com) 
   
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cafefarm-johnny&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
