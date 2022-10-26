@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 
 ### 소개
 
-3년차 웹 서버 백엔드 개발자 Johnny입니다.
+4년차 웹 서버 백엔드 개발자 Johnny입니다.
 Java와 Golang을 사용하여 백엔드 개발 및 툴 개발을 하며, 가끔 Node.js도 하곤 합니다.
