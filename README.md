@@ -27,6 +27,5 @@ Here are some ideas to get you started:
 
 ### 소개
 
-5년차 웹 서버 백엔드 개발자 Johnny입니다.
-Java와 Golang을 사용하여 백엔드 서버 및 툴 개발을 하고 있습니다.
-최근에는 앱개발과 Flutter에 관심이 생겨 Flutter를 학습하고 있습니다.
+6년차 백엔드 및 플러터 개발자 Johnny입니다.
+Java와 Golang을 사용하여 백엔드 서버 및 툴 개발을 하고, 최근에는 Flutter를 이용해 Android, iOS 크로스 플랫폼 개발을 하고 있습니다.
